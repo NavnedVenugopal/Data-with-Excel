@@ -1,0 +1,14 @@
+,,Values,,,
+Branch,City,Sum of gross_iincome,Sum of gross_margin_percentage,Sum of Rating,Sum of Tax
+A,Yangon,5057.1605,1619.047619,2389.2,5057.1605
+A Total,,5057.1605,1619.047619,2389.2,5057.1605
+B,Mandalay,5057.032,1580.952381,2263.6,5057.032
+B Total,,5057.032,1580.952381,2263.6,5057.032
+C,Naypyitaw,5265.1765,1561.904762,2319.9,5265.1765
+C Total,,5265.1765,1561.904762,2319.9,5265.1765
+Grand Total,,15379.369,4761.904762,6972.7,15379.369
+,,,,,
+,,,,,
+,,,,,
+,Min of Tax,Total,,,
+,Total,0.5085,,,
